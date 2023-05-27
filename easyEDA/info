@@ -1,0 +1,211 @@
+{
+  "uuid": "f61df65bc2724e919031123763bcf709",
+  "path": "Offline/esp32-4-channel-v2",
+  "name": "esp32-4-channel-v2",
+  "content": "",
+  "created_at": "2023-02-16 17:22:10",
+  "updated_at": "2023-04-12 13:25:12",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e7e3e92e67887f0490482950e2ff5b18",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "eb4b9aee9bd548aaa0d8f2be9fe0b10f": 4,
+        "e9b25f1543a94f0d8414337eba783030": 5,
+        "3ec77201bbcd4ecd8722658d581a4e60": 2,
+        "65b1ae295679465fabfb76c1fc7cc7e6": 2,
+        "5a9ec2085ad6436d86701332d4451b76": 3,
+        "a7291ceaee5442a999df26c55c7e675d": 2,
+        "18479f1c4d4749c5a4c4387846c5d657": 3,
+        "5d56951fd43d4b5083b0f3cd9bfd5587": 11
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-F-2.54_1x5",
+          2,
+          "HDR-F-2.54_1X5",
+          "CH_1/2,CH_3/4",
+          {
+            "BOM_Supplier Part": "C50950",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4bb67b2ac49a4595b3ed10b792fcbebb",
+            "uuid": "65b1ae295679465fabfb76c1fc7cc7e6"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x15",
+          3,
+          "HDR-F-2.54_1X15",
+          "H1,H5,H6",
+          {
+            "BOM_Supplier Part": "C124408",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "bce4bcfcccfb42a296f7a392ab0b7199",
+            "uuid": "5a9ec2085ad6436d86701332d4451b76"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          2,
+          "HDR-F-2.54_1X2",
+          "H2,PWR",
+          {
+            "BOM_Supplier Part": "C49661",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "K4-6×6_TH",
+          3,
+          "KEY-TH_4P-L6.0-W6.0-P4.50-LS6.5",
+          "KEY1,KEY2,KEY3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C136684",
+            "BOM_Manufacturer": "韩国韩荣",
+            "BOM_Manufacturer Part": "K2-1102DP-E4SW-04",
+            "puuid": "557c105168d444a992e25584f55bcbb2",
+            "uuid": "18479f1c4d4749c5a4c4387846c5d657"
+          }
+        ],
+        [
+          "2N3906(TO-92)",
+          4,
+          "TO-92-3_L4.9-W3.7-P1.27-L",
+          "Q1,Q2,Q3,Q4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "CJ",
+            "BOM_Manufacturer Part": "2N3906",
+            "BOM_Supplier Part": "C9809",
+            "puuid": "6924b36489de4921bb29ca14bf27c33f",
+            "uuid": "eb4b9aee9bd548aaa0d8f2be9fe0b10f"
+          }
+        ],
+        [
+          "4.7k",
+          4,
+          "R_AXIAL-0.3",
+          "R1,R2,R3,R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "1k",
+          4,
+          "R_AXIAL-0.3",
+          "R5,R6,R10,R11",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R_AXIAL-0.3",
+          "R7,R8,R9",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x3",
+          2,
+          "HDR-F-2.54_1X3",
+          "SENS1,SENS2",
+          {
+            "BOM_Supplier Part": "C146690",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f83673d09e13450d934ca6be4be5af8f",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "7912(TO-220)",
+          5,
+          "TO-220-3_L10.0-W4.5-P2.54-L",
+          "U1,U2,U3,U4,U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "STMicroelectronics",
+            "BOM_Manufacturer Part": "L7912CV-DG",
+            "BOM_Supplier Part": "C3797",
+            "puuid": "948e610cffd14df79f04c73832b1409b",
+            "uuid": "e9b25f1543a94f0d8414337eba783030"
+          }
+        ]
+      ],
+      "updateTime": 1680108716,
+      "createTime": 1676564531,
+      "histories": [],
+      "created_at": "2023-02-16 17:22:11",
+      "updated_at": "2023-03-29 18:51:56"
+    },
+    {
+      "uuid": "090aa4c3dc40b3b2045246a1e903176d",
+      "puuid": "f61df65bc2724e919031123763bcf709",
+      "title": "PCB_esp32-4-channel-v2",
+      "filename": "PCB_esp32-4-channel-v2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4bb67b2ac49a4595b3ed10b792fcbebb": 2,
+        "bce4bcfcccfb42a296f7a392ab0b7199": 3,
+        "36b1306a115341f4b4d9407fb34974e0": 2,
+        "557c105168d444a992e25584f55bcbb2": 3,
+        "6924b36489de4921bb29ca14bf27c33f": 4,
+        "3eb1249f3ebb4284ae221b0379016582": 11,
+        "f83673d09e13450d934ca6be4be5af8f": 2,
+        "948e610cffd14df79f04c73832b1409b": 5
+      },
+      "BOM": [],
+      "updateTime": 1681298712,
+      "createTime": 1680109085,
+      "histories": [],
+      "created_at": "2023-03-29 18:58:05",
+      "updated_at": "2023-04-12 13:25:12"
+    }
+  ],
+  "sort": [],
+  "title": "esp32-4-channel-v2",
+  "foldername": "esp32-4-channel-v2",
+  "schfilename": "esp32-4-channel-v2.json",
+  "schfilemtime": 1680108716593
+}
